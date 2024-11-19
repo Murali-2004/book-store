@@ -29,3 +29,4 @@ MERN-BookStore is a comprehensive web application built using the MERN stack (Mo
 - `Components`: Contains reusable React components.
 - `Pages`: Defines the main application pages.
 
+video  - https://drive.google.com/file/d/1OPkPuGTeCiaTqljT-Lmt9hA2vgZt5T18/view?usp=sharing
